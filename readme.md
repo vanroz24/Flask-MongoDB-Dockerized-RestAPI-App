@@ -18,7 +18,7 @@ This is a simple Flask app connected to a MongoDB database, everything is docker
     docker-compose up --build
     ```
 
-3. Access the Flask app at `http://localhost:5000` and the MongoDB database at `mongodb://root:pass@docker_host:27017/mongo_database`.
+3. Access the Flask app at `http://localhost:8080` and the MongoDB database at `mongodb://root:pass@docker_host:27017/mongo_database`.
 
 ---
 
